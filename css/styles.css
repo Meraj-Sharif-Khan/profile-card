@@ -91,7 +91,7 @@ body {
   width: 10.5rem;
   height: 10.5rem;
   border-radius: 50%;
-  border: 0.313rem solid hsl(0deg, 0%, 100%);
+  border: 0.5rem solid hsl(0deg, 0%, 100%);
   z-index: 2;
 }
 

@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/frontend-mentor-profile-card-component-html-css-bem-VtMKF2Aret)
+- Live Site URL: [live site URL](https://meraj-sharif-khan.github.io/profile-card/)
 
 ### Built with
 
